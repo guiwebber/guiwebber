@@ -1,4 +1,3 @@
-### Bem vindo!
 <p align="center">
   <img src="./helloo.gif" />
 </p>
