@@ -16,7 +16,10 @@
  
  <br>
  
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=guiwebber"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=umvo0bgbqlp5dwdm7p076mgw3&cover_image=true&theme=novatorem&show_offline=true&background_color=ccadad&interchange=false&bar_color=00f531&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)">
+</div>
  
 <div> 
   <a href="https://instagram.com/gui.webber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
