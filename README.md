@@ -4,13 +4,13 @@
 <div align="center">
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwebber"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwebber&theme=neon-dark&hide_border=true&background=DD272700"/>
   <br>
 </div>
 <div align="center">
   <br>
   <a href="https://github.com/guiwebber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwebber&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwebber&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
