@@ -3,8 +3,14 @@
   <img src="./helloo.gif" />
 </p>
 <div align="center">
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwebber"/>
+  <br>
+</div>
+<div align="center">
+  <br>
   <a href="https://github.com/guiwebber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiwebber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwebber&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -16,14 +22,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </div>
- 
+
+ <div align="center">
  <br>
- 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=umvo0bgbqlp5dwdm7p076mgw3&cover_image=true&theme=novatorem&show_offline=true&background_color=ccadad&interchange=false&bar_color=00f531&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=guiwebber"/>
-</div>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=umvo0bgbqlp5dwdm7p076mgw3&cover_image=true&theme=novatorem&show_offline=true&background_color=ccadad&interchange=false&bar_color=00f531&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)">
+ </div>
  
 <div align="center"> 
   <br>
