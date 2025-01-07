@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <br>
-  <br> <img src="https://streak-stats.demolab.com/?user=guiwebber"/>
+  <br> [![GitHub Streak](https://streak-stats.demolab.com/?user=guiwebber)](https://git.io/streak-stats)
   <br>
 </div>
 <div align="center">
