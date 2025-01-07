@@ -3,8 +3,7 @@
 </p>
 <div align="center">
   <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwebber&theme=neon-dark&hide_border=true&background=DD272700"/>
+  <br> <img src="https://streak-stats.demolab.com/?user=guiwebber"/>
   <br>
 </div>
 <div align="center">
