@@ -1,8 +1,6 @@
 
 <div align="center">
-  <br>![GitHub Streak](https://streak-stats.demolab.com?user=guiwebber&theme=dark)
- <img src="[https://spotify-github-profile.kittinanx.com/api/view?uid=12178131226&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile](https://streak-stats.demolab.com?user=guiwebber&theme=dark)"/><img src="https://streak-stats.demolab.com?user=guiwebber&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak" />
-  <br> 
+ 
   <br>
 </div>
 <div align="center">
