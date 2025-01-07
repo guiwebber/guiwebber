@@ -4,7 +4,7 @@
 <div align="center">
   <br>
   <br> 
- <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guiwebber&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guiwebber&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
   <br>
 </div>
 <div align="center">
