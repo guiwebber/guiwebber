@@ -1,7 +1,7 @@
 
 <div align="center">
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=guiwebber&theme=dark)](https://git.io/streak-stats)
+  <br>![GitHub Streak](https://streak-stats.demolab.com?user=guiwebber&theme=dark)
+
 
   <br> 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=guiwebber&hide_total_contributions=true&hide_longest_streak=true"/>
