@@ -6,7 +6,7 @@
 <div align="center">
   <br>
  <a href="https://github.com/guiwebber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwebber&layout=compact&langs_count=6&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwebber&layout=compact&langs_count=6&theme=dark"/>
  
 </div>
 <div align="center" style="display: inline_block"><br>
