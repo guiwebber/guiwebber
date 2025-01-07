@@ -4,7 +4,7 @@
 <div align="center">
   <br>
   <br> 
- <img src=[![GitHub Streak](https://streak-stats.demolab.com?user=guiwebber&theme=dark)](https://git.io/streak-stats)>
+ <img src="https://streak-stats.demolab.com?user=guiwebber&theme=dark)">
   <br>
 </div>
 <div align="center">
