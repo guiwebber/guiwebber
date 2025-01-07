@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./helloo.gif" />
-</p>
+
 <div align="center">
   <br>
   <br> 
