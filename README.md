@@ -23,6 +23,8 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </div>
 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12178131226&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
+
  <div align="center">
  <br>
  </div>
